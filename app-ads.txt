@@ -1,0 +1,4 @@
+# app-ads.txt for apps by Alberto22m (Crossing Quest)
+# Google AdMob
+google.com, pub-5195157352953086, DIRECT, f08c47fec0942fa0
+# Yandex Advertising Network: paste the lines from partner.yandex.com -> Settings -> Basic -> app-ads.txt below
